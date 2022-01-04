@@ -1,0 +1,48 @@
+.top-banner{
+    background-image: url(images/bg.jpg);
+    background-repeat: no repeat;
+    display: flex;
+}
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+span{
+    color: cornflowerblue;
+    font-weight: bolder;
+}
+.top-banner-half{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+}
+.top-banner-half img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+p{
+    font-size: 20px;
+}
+#div-img{
+    margin-bottom: 10%;
+    margin-top: 5%;
+    box-shadow: 10px 10px 10px skyblue;
+}
+#div-intro{
+    margin-top: 15%;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(cornflowerblue, steelblue);
+    border-color: wheat;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
